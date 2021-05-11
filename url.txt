@@ -1,1 +1,1 @@
-http://f51531c51c2e.ngrok.io
+http://f51531c51c2e.ngrok.io/getinput/inerstData.php
