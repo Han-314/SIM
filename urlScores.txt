@@ -1,0 +1,1 @@
+http://0391e7fef479.ngrok.io/getinput/scores.php
