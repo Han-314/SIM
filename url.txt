@@ -1,1 +1,1 @@
-http://9f75f4e0e655.ngrok.io/getinput/insertData.php
+http://localhost/getinput/insertData.php
