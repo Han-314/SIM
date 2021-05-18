@@ -1,1 +1,1 @@
-http://9f75f4e0e655.ngrok.io/getinput/webLogin.php
+http://localhost/getinput/webLogin.php
