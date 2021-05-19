@@ -1,1 +1,1 @@
-http://localhost/getinput/scores.php
+http://38dd2bbdadd1.ngrok.io/getinput/scores.php
