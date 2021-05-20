@@ -1,1 +1,1 @@
-https://1b1cd0f9d77a.ngrok.io/getinput/scores.php
+https://57885c9d58c5.ngrok.io/getinput/scores.php
