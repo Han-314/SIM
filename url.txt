@@ -1,1 +1,1 @@
-https://57885c9d58c5.ngrok.io/getinput/insertData.php
+https://0f596fe7beb7.ngrok.io/getinput/insertData.php
